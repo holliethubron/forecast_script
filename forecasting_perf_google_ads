@@ -4,7 +4,7 @@
 *Created By: House Of Performance with snippets from  'Campain and Keyword Summary Report by Russ Savage
 *FreeAdWordsScripts.com
 ************************************/
-var SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1QvO5aHX2iKScY9qGyCaeMlOB_izOGN8NxhEGKbvo-X4/copy"; // Make a copy of this template & replace this with your spreadsheet URL
+var SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1zTly2AESs6FV4zb1ziYrjWcTHm5CiPN6wr7R5L3-sdY/copy"; // Make a copy of this template & replace this with your spreadsheet URL
 
 function main() {
   // These names are important. Change them with caution.
